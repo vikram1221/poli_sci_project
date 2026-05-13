@@ -21,13 +21,7 @@ In the full specification model, I control for unemployment rate, rates of bache
 
 
 
-
-
-
-
-
-
-
+<img width="1118" height="612" alt="image" src="https://github.com/user-attachments/assets/9a3b8134-356f-4599-bb43-660a6281a679" />
 
 ## Biases 
 
