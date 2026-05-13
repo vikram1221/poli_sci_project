@@ -18,8 +18,7 @@ In the baseline model, the icient of Income Inequality is -0.5437 (significant a
 
 In the full specification model, I control for unemployment rate, rates of bachelors degrees among adults and percentage white people in the state. This regression gives me -0.56 as the coefficient of income inequality. So, for every one unit increase in Gini Index, political polarization falls by 0.54%. 
 
-
-
+<img width="1473" height="511" alt="image" src="https://github.com/user-attachments/assets/40285ebd-dcb5-43fa-a65f-17677811600c" />
 
 <img width="1118" height="612" alt="image" src="https://github.com/user-attachments/assets/9a3b8134-356f-4599-bb43-660a6281a679" />
 
