@@ -20,6 +20,9 @@ In the full specification model, I control for unemployment rate, rates of bache
 
 <img width="1473" height="511" alt="image" src="https://github.com/user-attachments/assets/40285ebd-dcb5-43fa-a65f-17677811600c" />
 
+
+
+
 <img width="1118" height="612" alt="image" src="https://github.com/user-attachments/assets/9a3b8134-356f-4599-bb43-660a6281a679" />
 
 ## Biases 
