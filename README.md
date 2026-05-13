@@ -14,12 +14,12 @@ In the baseline model, I regress the absolute value of %entage of democratic vot
 
 ## Results 
 
-In the baseline model, the icient of Income Inequality is -0.5437 (significant at 5%). This means that for every 1 unit of increase in the Gini Index, the political polarization falls by 0.56%. This regression suggests that people with the same income have more political polarization among them, and the difference between incomes increases, political polarization decreases. 
+In the baseline model, the icient of Income Inequality is -0.5437 (significant at 5%). This means that for every 1 unit of increase in the Gini Index, the political polarization falls by 0.54%. This regression suggests that people with the same income have more political polarization among them, and the difference between incomes increases, political polarization decreases. 
 
-In the full specification model, I control for unemployment rate, rates of bachelors degrees among adults and percentage white people in the state. This regression gives me -0.56 as the coefficient of income inequality. So, for every one unit increase in Gini Index, political polarization falls by 0.54%. 
+In the full specification model, I control for unemployment rate, rates of bachelors degrees among adults and percentage white people in the state. This regression gives me -0.56 as the coefficient of income inequality. So, for every one unit increase in Gini Index, political polarization falls by 0.56%. 
 
 <img width="1473" height="511" alt="image" src="https://github.com/user-attachments/assets/40285ebd-dcb5-43fa-a65f-17677811600c" />
-<br><br><br><br><br>
+<br><br><br>
 <img width="1118" height="612" alt="image" src="https://github.com/user-attachments/assets/9a3b8134-356f-4599-bb43-660a6281a679" />
 
 ## Biases 
